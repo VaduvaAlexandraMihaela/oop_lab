@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\facultate\oop_lab\lab2_ex5\lab2_ex5\source.cpp(10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\facultate\oop_lab\lab2_ex5\lab2_ex5\source.cpp(14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  lab2_ex5.vcxproj -> D:\Facultate\oop_lab\lab2_ex5\Debug\lab2_ex5.exe
